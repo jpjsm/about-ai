@@ -1,0 +1,11 @@
+name: about-ai-torch-py312
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+variables:
+  HF_HUB_DISABLE_PROGRESS_BARS: '1'
+  HF_HUB_DISABLE_SYMLINKS_WARNING: '1'
+  TF_ENABLE_ONEDNN_OPTS: '0'
+  TRANSFORMERS_VERBOSITY: error
+prefix: C:\Users\juanp\miniforge3\envs\about-ai-torch-py312
