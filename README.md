@@ -19,5 +19,24 @@ A place to save knowledge about AI, transformers, RAG, LLM, etc.
   - `nvcc -V`
 - `pip install sentencepiece`
 - `pip install sacremoses`
-- `pip install transformers`
-- `pip install datasets accelerate evaluate tokenizers`
+- `pip install transformers datasets accelerate evaluate tokenizers`
+- `pip install faiss-cpu hf_xet`
+
+- bs4
+- hf_xet
+- langchain
+- nltk
+- PyPDF2
+- requests
+- scikit-learn
+- sentence_transformers
+- transformers
+
+#### Web server
+
+- "fastapi[standard]"
+
+#### Frontend
+
+- gradio
+- streamlit
